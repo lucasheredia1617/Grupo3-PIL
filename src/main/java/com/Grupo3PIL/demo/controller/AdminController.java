@@ -1,9 +1,8 @@
-package controller;
+package com.Grupo3PIL.demo.controller;
 
-import model.Administrator;
+import com.Grupo3PIL.demo.model.Administrator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import services.AdminService;
 
 import java.util.List;
 
@@ -11,7 +10,7 @@ import java.util.List;
 public class AdminController {
 
     @Autowired
-    private AdminService AdminService;
+    private com.Grupo3PIL.demo.services.AdminService AdminService;
 
     @PostMapping("/admin")
     public Administrator saveAdmin(@RequestBody Administrator admin) {

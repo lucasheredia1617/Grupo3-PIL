@@ -1,9 +1,9 @@
-package services;
+package com.Grupo3PIL.demo.services;
 
-import model.Administrator;
+import com.Grupo3PIL.demo.repository.TurnPointRepository;
+import com.Grupo3PIL.demo.model.Administrator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.TurnPointRepository;
 
 import java.util.List;
 

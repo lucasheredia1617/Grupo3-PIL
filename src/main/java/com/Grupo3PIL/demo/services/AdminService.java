@@ -1,6 +1,6 @@
-package services;
+package com.Grupo3PIL.demo.services;
 
-import model.Administrator;
+import com.Grupo3PIL.demo.model.Administrator;
 import java.util.List;
 
 public interface AdminService {

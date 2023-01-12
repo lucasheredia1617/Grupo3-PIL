@@ -1,7 +1,7 @@
-package main;
+package com.Grupo3PIL.demo.main;
 
-import model.Supervisor;
-import model.Point;
+import com.Grupo3PIL.demo.model.Point;
+import com.Grupo3PIL.demo.model.Supervisor;
 
 import java.util.ArrayList;
 
