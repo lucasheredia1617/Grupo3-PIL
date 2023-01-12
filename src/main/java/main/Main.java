@@ -1,7 +1,7 @@
 package main;
 
 import model.Supervisor;
-import services.Point;
+import model.Point;
 
 import java.util.ArrayList;
 
