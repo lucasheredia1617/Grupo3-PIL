@@ -14,7 +14,7 @@ public class Administrator {
 
 
     public String editSupervisor(int document){
-        return "";
+        return "asd";
     }
 
     public String consultSupervisor(){
