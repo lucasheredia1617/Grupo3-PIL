@@ -1,9 +1,9 @@
-package controller;
+package com.Grupo3PIL.demo.controller;
 
-import model.Administrator;
+import com.Grupo3PIL.demo.model.Administrator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import services.AdminService;
+import com.Grupo3PIL.demo.services.AdminService;
 
 import java.util.List;
 

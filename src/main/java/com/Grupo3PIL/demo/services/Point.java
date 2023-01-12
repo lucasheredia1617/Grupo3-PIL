@@ -1,4 +1,4 @@
-package services;
+package com.Grupo3PIL.demo.services;
 
 public class Point {
     private double y, x;

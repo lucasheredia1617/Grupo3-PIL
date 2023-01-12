@@ -1,4 +1,4 @@
-package model;
+package com.Grupo3PIL.demo.model;
 
 public class Supervisor {
     private int id;

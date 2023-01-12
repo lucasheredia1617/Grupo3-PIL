@@ -1,6 +1,6 @@
-package repository;
+package com.Grupo3PIL.demo.repository;
 
-import model.Administrator;
+import com.Grupo3PIL.demo.model.Administrator;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
