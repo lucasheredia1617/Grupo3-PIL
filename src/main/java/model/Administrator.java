@@ -1,12 +1,14 @@
 package model;
 public class Administrator {
 
-    private Long document;
+    public void registerSupervisor(){
 
-    public Administrator(Long document, String name) {
-        this.document = document;
-        this.name = name;
     }
 
-    String name = "Gustavo";
+
+    public void unsuscribeSupervisor(int document){
+
+    }
+
+
 }
